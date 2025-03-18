@@ -1,0 +1,15 @@
+#root {
+  background-color: #020617;
+}
+body {
+  overflow: scroll;
+}
+
+@keyframes scrollText {
+  0% {
+    transform: translateX(100%); /* Start from the right */
+  }
+  100% {
+    transform: translateX(-100%); /* End at the left */
+  }
+}
