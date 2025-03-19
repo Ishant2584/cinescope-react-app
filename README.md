@@ -33,6 +33,7 @@ tmdbToken: 'your-tmdb-api-key',
 ipInfoToken: 'your-ipinfo-api-key'
 ```
 Replace 'your-tmdb-api-key' and 'your-ipinfo-api-key' with the actual keys you received after registering on TMDB and IPInfo.
+
 6. Run the Project Locally:- After updating the necessary API keys, start the development server by running:
 ```
 npm run dev
